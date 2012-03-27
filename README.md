@@ -1,6 +1,4 @@
-Read the [blog post about this](http://ttsiodras.github.com/youtube.html).
-
-It allows you to playback Youtube videos with their annotations, offline
+Read my [blog post for details about this](http://ttsiodras.github.com/youtube.html): It allows you to playback Youtube videos with their annotations, offline
 (via MPlayer). In what follows, change 'o0BgAp11C9s' to whatever your
 Youtube video id is (the last part of the Youtube video URL).
 
