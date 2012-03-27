@@ -22,7 +22,7 @@ The script then...
 * creates bitmaps from the TEXT regions via ImageMagick
 * and sends them over to the MPlayer's bmovl FIFO for displaying
 
-The script worked fine for my [VIM](http://ttsiodras.github.com/myvim.html#vimeovim) video, and I have also tested it on a few other Youtube videos. You can see the results (a) in the [Vimeo version of my VIM advocacy](vim.html#vimeovim) or (b) download a [full-HD version of the same video](http://www.mediafire.com/file/ge1imhbivswsixr/Vim.C.and.C++.flv). If you do decide to use this script, please remember that you must also [patch](http://ttsiodras.github.com/patch.bmovl.gz) your MPlayer, since the <tt>bmovl</tt> filter is currently (2012/03) broken.
+The script worked fine for my [VIM](http://ttsiodras.github.com/myvim.html#vimeovim) video, and I have also tested it on a few other Youtube videos. You can also see the results in a [full-HD version of the same video](http://www.mediafire.com/file/ge1imhbivswsixr/Vim.C.and.C++.flv). If you do decide to use this script, please remember that you must also [patch](http://ttsiodras.github.com/patch.bmovl.gz) your MPlayer, since the <tt>bmovl</tt> filter is currently (2012/03) broken.
 
 Enjoy!
 
