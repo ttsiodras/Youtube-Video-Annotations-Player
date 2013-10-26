@@ -10,6 +10,10 @@ Youtube video id is (the last part of the Youtube video URL).
 
     $ wget -O annotations.xml 'http://www.youtube.com/annotations_auth/read2?feat=TCS&video_id=o0BgAp11C9s'
 
+Update, October 2013: The service URL has now moved to:
+
+    $ wget -O annotations.xml 'https://www.youtube.com/annotations_invideo?features=0&legacy=1&video_id=o0BgAp11C9s'
+
 3. Then you run my tiny Python script:
 
     $ youtubeAnnotations.py annotations.xml vimPower.flv
